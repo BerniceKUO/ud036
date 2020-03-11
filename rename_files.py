@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 11 07:59:47 2020
 
-@author: 1300183
+@author: Bernice KUO
 """
 
 import os
